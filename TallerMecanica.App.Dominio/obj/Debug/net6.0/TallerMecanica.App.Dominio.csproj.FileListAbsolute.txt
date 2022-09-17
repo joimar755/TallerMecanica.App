@@ -1,0 +1,14 @@
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\bin\Debug\net6.0\TallerMecanica.App.Dominio.deps.json
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\bin\Debug\net6.0\TallerMecanica.App.Dominio.runtimeconfig.json
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\bin\Debug\net6.0\TallerMecanica.App.Dominio.dll
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\bin\Debug\net6.0\TallerMecanica.App.Dominio.pdb
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.AssemblyInfo.cs
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.dll
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\refint\TallerMecanica.App.Dominio.dll
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.pdb
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\TallerMecanica.App.Dominio.genruntimeconfig.cache
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Dominio\obj\Debug\net6.0\ref\TallerMecanica.App.Dominio.dll
