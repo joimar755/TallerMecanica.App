@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using TallerMecanica.App.Dominio;
+using Newtonsoft.Json;
 using System.Linq;
 
 
@@ -18,7 +19,7 @@ public class RepositorioPersona : InterfazRepositorioPersona
     
     {
         _appContext = appContext;
-
+        
     }
 
         
@@ -81,7 +82,10 @@ public class RepositorioPersona : InterfazRepositorioPersona
         {
             throw new System.NotImplementedException();
         }
+
     }
+    
+     
 }
 
 

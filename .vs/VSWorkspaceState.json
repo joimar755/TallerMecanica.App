@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TallerMecanica.App.Frontend",
+    "\\TallerMecanica.App.Frontend\\Pages",
+    "\\TallerMecanica.App.Frontend\\Pages\\Personas",
+    "\\TallerMecanica.App.Frontend\\Pages\\Shared",
+    "\\TallerMecanica.App.Frontend\\wwwroot",
+    "\\TallerMecanica.App.Frontend\\wwwroot\\js",
+    "\\TallerMecanica.App.Persistencia",
+    "\\TallerMecanica.App.Persistencia\\AppRepositorios"
   ],
+  "SelectedNode": "\\TallerMecanica.App.Persistencia\\AppRepositorios\\Ajax.cs",
   "PreviewInSolutionExplorer": false
 }

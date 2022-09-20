@@ -84,3 +84,4 @@ C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Frontend\bin\Deb
 C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Frontend\obj\Debug\net6.0\TallerMecanica.App.Frontend.csproj.CopyComplete
 C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Frontend\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Joimar\Documents\TallerMecanica.App\TallerMecanica.App.Frontend\bin\Debug\net6.0\Newtonsoft.Json.dll
